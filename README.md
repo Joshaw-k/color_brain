@@ -40,7 +40,7 @@ Here are some packages you need to have installed on your PC:
 
 1. Clone this repo
    ```sh
-   git clone https://github.com/OsmanRodrigues/bshelf-dapp.git
+   git clone https://github.com/Joshaw-k/color_brain
    ```
 2. Install NPM packages
    ```sh
